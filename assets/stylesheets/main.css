@@ -1,0 +1,109 @@
+/* Declaration Order
+   1) Positioning
+   2) Box-Model
+   3) Typographic
+   4) Visual */
+
+/* Utility */
+.container {
+  width: 70%;
+  margin: 0 auto;
+
+  background-color: #f1f1f1;
+}
+
+b {
+  font-weight: 700;
+}
+
+small {
+  font-size: 0.8em;
+}
+
+/* The Navigation Bar */
+nav {
+  height: 3em;
+  width: 100%;
+  margin-bottom: 1em;
+
+  line-height: 2.5em;
+  word-spacing: 1em;
+  font-weight: 800;
+
+  box-shadow: 0 1.1px 0 #d3d3d3;
+}
+
+.material-icons {
+  margin-left: 1em;
+
+  color: grey;
+}
+
+/* The Video and Description */
+header {
+  float: left;
+
+  height: 50em;
+  width: 80%;
+}
+
+iframe {
+  height: 75%;
+  width: 100%;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+/* The Comment Section */
+section {
+  float: left;
+
+  height: 45em;
+  width: 80%;
+}
+
+.comments-container {
+  margin-left: 5%;
+}
+
+h6 {
+  display: inline;
+
+  font-size: 0.9em;
+  font-weight: 600;
+}
+
+/* The Recommended Videos Sidebar */
+aside {
+  float: right;
+  margin-left: 2%;
+
+  height: 95em;
+  width: 18%;
+}
+
+h2 {
+  font-size: 1.2em;
+}
+
+.thumbnails {
+  float: left;
+  width: 50%;
+}
+
+.descriptions {
+  margin-left: 5%;
+  float: right;
+  width: 45%;
+}
+
+img {
+  width: 100%;
+}
+
+h4 {
+  font-size: 1.1em;
+  font-weight: 600;
+}
