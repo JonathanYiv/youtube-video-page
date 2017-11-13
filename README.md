@@ -4,7 +4,7 @@ This purpose of this project was to practice embedding images/video in HTML/CSS 
 
 This is a project from [The Odin Project](https://www.theodinproject.com/lessons/embedding-images-and-video).
 
-![assets/images/screenshot.png]
+![Screenshot](assets/images/screenshot.png)
 
 ## Pre-Project Thoughts
 
