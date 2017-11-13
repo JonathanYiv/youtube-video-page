@@ -4,7 +4,7 @@ This purpose of this project was to practice embedding images/video in HTML/CSS 
 
 This is a project from [The Odin Project](https://www.theodinproject.com/lessons/embedding-images-and-video).
 
-[Screenshot Pending...]
+![assets/images/screenshot.png]
 
 ## Pre-Project Thoughts
 
@@ -18,3 +18,6 @@ I did ensure to properly embed both videos/images and follow proper HTML structu
 Both HTML and CSS were validated using W3C's validators.
 It was an easy project.
 Probably took around 20 minutes.
+
+One thing I'd like to comment on is how quickly this took compared to that first [Google Homepage](https://github.com/JonathanYiv/google-homepage) and [Google Searchpage](https://github.com/JonathanYiv/google-searchpage) project three months ago back in [Web Development 101](https://www.theodinproject.com/courses/web-development-101).
+Those each took me a day.
